@@ -21,7 +21,7 @@ The analysis aimed to answer the following questions:
   What patterns can be identified using correlation and regression analysis?</p>
 
 # Tools & Technologies Used
-- Microsoft Excel – Data cleaning, descriptive statistics, correlation & regression analysis 
+- Microsoft Excel – Data cleaning, descriptive statistics, correlation & regression analysis [Download here]{https://www.microsoft.com}
 - Microsoft SQL Server – Data querying, aggregation, segmentation analysis
 - Microsoft Power BI – Data modeling, DAX measures, dashboard visualization
  - GitHub – Project documentation and version control
