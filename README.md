@@ -105,3 +105,8 @@ Provide academic intervention in lower-performing subjects.</p>
 ✔ Dashboard design and storytelling<br>
 ✔ Ability to translate data into actionable insights</p>
 
+## Author
+#### Gladys Okedare
+<p>Aspiring Data Analyst | Excel • SQL • Power BI<br>
+Focused on data-driven decision making and statistical analysis.</p>
+
