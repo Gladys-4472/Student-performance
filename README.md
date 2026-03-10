@@ -21,7 +21,8 @@ The analysis aimed to answer the following questions:
   What patterns can be identified using correlation and regression analysis?</p>
 
 # Tools & Technologies Used
-- Microsoft Excel – Data cleaning, descriptive statistics, correlation & regression analysis [Download here]{C:\Users\USER\Desktop\Student_Performance_Statistical_Portfolio_v3.xlsx}
+- Microsoft Excel – Data cleaning, descriptive statistics, correlation & regression analysis
+   [Download here]{[C:\Users\USER\Desktop\Student_Performance_Statistical_Portfolio_v3.xlsx](https://1drv.ms/x/c/CD0290DE7B7CBE1A/IQAb5wpZ_-U4T7vgJjx-3dLoAd3khiQF3VkYDxjIg6PWies?e=SruJm8)}
 - Microsoft SQL Server – Data querying, aggregation, segmentation analysis
 - Microsoft Power BI – Data modeling, DAX measures, dashboard visualization
  - GitHub – Project documentation and version control
@@ -51,7 +52,8 @@ In Power BI, a clean data model was built following best practices.</p>
 <p>Mean<br>
 Median<br>
 Standard Deviation<br>
-Minimum & Maximum values</p>
+Minimum & Maximum values</p> 
+
   
 ## Correlation Analysis
 <p>Pearson correlation was used to evaluate relationships between:<br>
